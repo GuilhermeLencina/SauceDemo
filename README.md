@@ -37,7 +37,34 @@ Como já escrito no titulo, neste tópico terá a padrão utilizado para estrutu
 
 **src/test/java/Validations/ -** Onde criamos nossas classes e  métodos de validações.
 
-## Execução dos Testes 🎯
+## Objetivos 🎯
+Checklist básico para mostrar a progressão do projeto.
+
+[✔️] Criar **Readme**
+
+[] Criar **Projeto** Maven
+
+[] Criar arquivo **.gitignore**
+
+[] Criar e Configurar Classe **TestBase**
+
+[] Criar e Configurar Classe de **Waits**
+
+[] Criar classes parar geração de **Reports**
+
+[] Criar Classe para gerar dados com **JavaFakers**
+
+[] Criar Classe e Mapear Elementos nas **PageObjects**
+
+[] Criar Classe e Desenvolver Métodos nas **Tasks**
+
+[] Criar Classe e Desenvolver Validações nas **Validations**
+
+[] Criar Classes de **TestsCases**
+
+[] Criar **Suites** de Testes
+
+## Execução dos Testes 📂
 Este tópico tem como objetivo explicar de forma simples como rodar os testes desenvolvidos no projeto, siga o passo a passo abaixo.
 
 * Abra o projeto
